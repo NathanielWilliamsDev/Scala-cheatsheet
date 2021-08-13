@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Natha\Desktop\Uni\Uni S2 2021\GitHub Cheat-sheet\cheatsheet\cheatsheet.scala:316:13: diffTypes is already defined as value diffTypes[0m
+[0m[[0m[31merror[0m] [0m[0m        val diffTypes = (true, 12, "string", 1.12345)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
